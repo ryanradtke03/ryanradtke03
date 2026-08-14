@@ -2,8 +2,7 @@
 ### hi, i'm ryan 
 
 full-stack engineer based in LA. I like building things that are 
-actually useful
-right now that's **Finapse**, a personal finance 
+actually useful; right now that's **Finapse**, a personal finance 
 app with Plaid bank sync, because spreadsheets never stuck for me.
 
 - 🔭 currently building **[Finapse](https://finapse-web.onrender.com/)** — React · Express · 
