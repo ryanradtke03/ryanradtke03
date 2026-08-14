@@ -1,11 +1,15 @@
 ### hi, i'm ryan 👋
 
-full-stack engineer based in LA, currently job hunting after 
-being laid off from QA Wolf (June 2026). building out Finapse, 
-a full-stack personal finance app, as my flagship project.
+full-stack engineer based in LA. I like building things that are 
+actually useful — right now that's **Finapse**, a personal finance 
+app with Plaid bank sync, because spreadsheets never stuck for me.
 
-- 🔭 currently working on **[Finapse](link)** — Plaid-integrated 
-  finance dashboard, React + Express + Prisma + PostgreSQL
-- 🎯 targeting product-focused SWE roles (Stripe, Figma, Linear, Vercel)
-- 🛠️ toolbox — CLI tools and dev utilities I build for myself
-- 📫 reach me: [LinkedIn](link) · [email]
+
+- 🔭 currently building **[Finapse](https://finapse-web.onrender.com/)** — React · Express · 
+  Prisma · PostgreSQL, with real bank data via Plaid
+- 🛠️ **toolbox** — CLI tools and scripts I build when something 
+  annoys me enough
+- 📫 [LinkedIn]([link](https://www.linkedin.com/in/ryanradtke03/)) · [ryancradtke3@gmail.com]
+
+*"breaking things professionally taught me a lot about building 
+them right."*
