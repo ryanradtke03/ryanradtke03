@@ -1,4 +1,4 @@
-### hi, i'm ryan 👋
+### hi, i'm ryan 
 
 full-stack engineer based in LA. I like building things that are 
 actually useful — right now that's **Finapse**, a personal finance 
